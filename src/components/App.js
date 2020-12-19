@@ -8,6 +8,8 @@ import { Container } from 'react-bootstrap';
 import { AuthProvider } from '../context/AuthContext';
 import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import ForgotPassword from './ForgotPassord';
+//import "shards-ui/dist/css/shards.min.css"
+
 
 function App() {
   return (
